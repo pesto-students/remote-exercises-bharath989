@@ -7,7 +7,6 @@ function sumPrimes(num) {
       total += start;
       sumOfPrimes++;
     }
-
   }
   return sumOfPrimes;
 }
